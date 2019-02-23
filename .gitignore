@@ -42,6 +42,9 @@ vignettes/*.pdf
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
 
+# Photoshop file
+*.psd
+
 ### Config files
 *config.py
 smileconfig.*
